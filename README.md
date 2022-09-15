@@ -1,2 +1,3 @@
-# FirstP
-https://janntulweb.github.io/FirstP/
+project1.html
+project1.css
+img.jpg
