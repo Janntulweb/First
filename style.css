@@ -27,6 +27,9 @@ nav{
     overflow:hidden;
     text-align: center;
 }
+a:hover{
+    background-color:aqua;
+}
 nav a {
     background-color: rgba(131, 181, 165, 0.509);
     color: rgb(247, 246, 235);
