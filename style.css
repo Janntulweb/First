@@ -48,11 +48,10 @@ nav a {
 aside{
     background-color: rgba(103, 214, 177, 0.414);
     color: rgb(14, 21, 21);
-    margin-left: 90%;
     padding:10px;
-    text-align:right; 
-    width: 50%;
-    float: left;
+    text-align:left; 
+    width: 100%;
+    float: right;
 }
 p{
     text-align: right;
